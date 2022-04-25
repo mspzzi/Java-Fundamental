@@ -97,3 +97,16 @@ visibilidade, modificador, tipo, nome, valorInicial.
 - boolean: true e false -> boolean s = false;
 
 
+## Operadores Matemáticos
+
+"Símbolos especiais quais são capazes de realizar ações específicas em um, dois ou mais operandos, e em seguida, retornar um resultado."
+
+#### Tipos:
+
+- pós-fixado: exp++ ou exp–
+
+- prefixado: ++exp ou –exp
+
+- artimético: +, -, *, / e %
+
+- atribuição: =, +=, -=, *=, /= e %=
